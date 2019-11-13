@@ -249,14 +249,14 @@ function allArticles() {
 
 <form method='POST' action='/articles'>
   <label>Author: <input type='text' name='author'></label>
-  <br>
+  <br />
   <label>Title:  <input type='text' name='title'></label>
-  <br>
+  <br />
   <label for='body'>Body:</label>
-  <br>
+  <br />
   <textarea name='body'>
   </textarea>
-  <br>
+  <br />
   <input type='submit'>
 </form>
 ```
