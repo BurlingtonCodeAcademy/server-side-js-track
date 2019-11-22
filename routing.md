@@ -1,3 +1,5 @@
+![Video Example](https://vimeo.com/6410100)
+
 # Routing
 
 *routing* in web apps is essentially a set of rules to decide...
