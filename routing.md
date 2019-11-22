@@ -1,4 +1,4 @@
-![Video Example](https://vimeo.com/6410100)
+<video src='https://vimeo.com/6410100' />
 
 # Routing
 
