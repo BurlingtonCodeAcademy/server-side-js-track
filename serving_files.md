@@ -147,7 +147,7 @@ Now open a web browser and visit <http://localhost:5000/> and you will see the c
 
 **TIP:** open the browser DevTools and click on the Headers sub-tab to see Content-Type and other headers:
 
-![headers](/images/content-type.png)
+![headers](https://res.cloudinary.com/btvca/image/upload/v1574445171/curriculum/content-type_hpivju.png)
 
 # 404 Not Found and other status codes
 

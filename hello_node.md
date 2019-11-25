@@ -90,7 +90,7 @@ If you are working with a partner, give them a high five.
 
 If you are alone, give yourself a high five.
 
-![high five](/images/high-five.svg)
+![high five](https://res.cloudinary.com/btvca/image/upload/v1574445178/curriculum/high-five_exiei5.svg)
 
 You deserve it!
 
