@@ -82,7 +82,7 @@ Express provides several different "parameters" objects:
 
 # Path Parameters in Express
 
-The special character `:` means "this is a [path parameter](/lessons/server-side-js-track/parameters#path_parameters)"
+The special character `:` means "this is a [path parameter](/lessons/server-side-js-track/parameters)"
 
 Example:
 
