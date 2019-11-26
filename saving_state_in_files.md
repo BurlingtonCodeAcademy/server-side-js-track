@@ -8,7 +8,7 @@ NodeJS is good at files.
 
 The built-in `fs` and `path` libraries have some slick and efficient ways of reading and writing files.
 
-Rather than go through the full API, it's best to look at sample code like that inside the [Express Blog Codealong](/lessons/blog)  ([github repo](https://github.com/BurlingtonCodeAcademy/express-blog))
+Rather than go through the full API, it's best to look at sample code like that inside the [Express Blog Codealong](/lessons/server-side-js-track/blog)  ([github repo](https://github.com/BurlingtonCodeAcademy/express-blog))
 
 > Remember that most of Node's I/O functions are asynchronous, so you may need to use callbacks, Promises, and/or async-await.
 

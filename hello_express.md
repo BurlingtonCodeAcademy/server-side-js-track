@@ -121,7 +121,7 @@ Once you've made the change...
 
 # Parameters in Express
 
-The special character `:` means "this is a [path parameter](/lessons/parameters#path_parameters)"
+The special character `:` means "this is a [path parameter](/lessons/server-side-js-track/parameters#path_parameters)"
 
 Example:
 

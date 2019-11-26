@@ -31,7 +31,7 @@ as well as a shared context of documentation and tutorials so other coders don't
 
 # Express Routing Example
 
-In the [Hello, Express](/lessons/hello_express) lesson we saw the following route:
+In the [Hello, Express](/lessons/server-side-js-track/hello_express) lesson we saw the following route:
 
 ```js
 app.get('/', (request, response) => response.send('Hello World!'))
@@ -82,7 +82,7 @@ Express provides several different "parameters" objects:
 
 # Path Parameters in Express
 
-The special character `:` means "this is a [path parameter](/lessons/parameters#path_parameters)"
+The special character `:` means "this is a [path parameter](/lessons/server-side-js-track/parameters#path_parameters)"
 
 Example:
 
